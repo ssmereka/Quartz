@@ -1,0 +1,76 @@
+*******************************
+*****     Quartz v1.0     *****
+*****Theme Name: SoundWave*****
+*****Author: Scott Smereka*****
+*****Modified: 02/08/2010 *****
+*******************************
+
++++++++++++++++++++++++++++++++
++   Warning: Case sensitive   +
++                             +
++         (Color) Key         +
++ Options: Black, Blue, Brown +
++  Green, Orange, Red, White, +
++  Yellow                     +
++                             +
++         (NULL) Key          +
++ Represents none or nochange +
++ options: NULL               +
++                             +
++         (T/F) Key           +
++  Options: True, False       +
++++++++++++++++++++++++++++++++
+
+*******************************
+*     Comment Characters:     *
+* Options: *, /, +, &, $, #   *
+*******************************
+
+*This must match filename.thm*
+//0. Theme Name (Appears in Theme Settings)
+Soundwave
+
+//1. Background Image Relative Location (If none = NULL)
+Themes/Soundwave/soundwave.jpg
+
+//2. Background Color (only set if Image = NULL)
+NULL
+
+//3. Change Textbox Background (Color)
+Black
+
+//4. Change Textbox Text (Color)
+White
+
+//5. Change Labels Background (Color)
+Black
+
+//6. Change Labels Text (Color)
+White
+
+//7. Change Gridviews Background (Color)
+Black
+
+//8. Additional Toolstrip Menu enabled (true/false)
+true
+
+//9. Change Toolstrip Menu Background (Color)
+Black
+
+//10. Change Toolstrip Text (Color)
+White
+
+//11. Change Groupbox Background (Color)
+Black
+
+//12. Change GroupBox Text (Color)
+White
+
+//13. Menu Background (Color) 
+Black
+
+//14. Menu Text (Color)
+White
+
+//15. Footer Background (color)
+Black
